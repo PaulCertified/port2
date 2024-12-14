@@ -1,0 +1,2 @@
+export const PROFILE_IMAGE_URL = 'http://paulcertified.com/images/web-developer.jpg';
+export const FALLBACK_IMAGE_URL = 'https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80';
